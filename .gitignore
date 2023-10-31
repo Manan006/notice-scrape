@@ -1,0 +1,5 @@
+tmp*
+venv*
+.env
+main.db
+*.html
